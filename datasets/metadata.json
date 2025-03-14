@@ -1,0 +1,134 @@
+{
+    "images/001.png": {
+        "Body Movement": {
+            "vx": 0.2,
+            "vy": -0.04,
+            "v_rot": 0.32
+        },
+        "Movement parameters": {
+            "step_height": 0.03,
+            "step_duration": 1.49,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.06,
+            "pos_y": -0.09,
+            "pos_z": 0.17
+        },
+        "Body Rotation": {
+            "roll": -6.2,
+            "pitch": -0.69,
+            "yaw": 165.6
+        }
+    },
+    "images/002.png": {
+        "Body Movement": {
+            "vx": 0.83,
+            "vy": -0.07,
+            "v_rot": -0.23
+        },
+        "Movement parameters": {
+            "step_height": 0.03,
+            "step_duration": 1.32,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.03,
+            "pos_y": 0.14,
+            "pos_z": 0.06
+        },
+        "Body Rotation": {
+            "roll": -2.44,
+            "pitch": 9.73,
+            "yaw": 42.82
+        }
+    },
+    "images/003.png": {
+        "Body Movement": {
+            "vx": 0.67,
+            "vy": 0.12,
+            "v_rot": 0.0
+        },
+        "Movement parameters": {
+            "step_height": 0.03,
+            "step_duration": 1.82,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.18,
+            "pos_y": -0.18,
+            "pos_z": 0.06
+        },
+        "Body Rotation": {
+            "roll": 9.2,
+            "pitch": -5.76,
+            "yaw": 105.25
+        }
+    },
+    "images/004.png": {
+        "Body Movement": {
+            "vx": 0.39,
+            "vy": 0.3,
+            "v_rot": 0.06
+        },
+        "Movement parameters": {
+            "step_height": 0.06,
+            "step_duration": 1.59,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.1,
+            "pos_y": -0.19,
+            "pos_z": 0.16
+        },
+        "Body Rotation": {
+            "roll": 3.59,
+            "pitch": -6.89,
+            "yaw": 1.4
+        }
+    },
+    "images/005.png": {
+        "Body Movement": {
+            "vx": 0.55,
+            "vy": 0.04,
+            "v_rot": 0.46
+        },
+        "Movement parameters": {
+            "step_height": 0.05,
+            "step_duration": 1.73,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.14,
+            "pos_y": 0.13,
+            "pos_z": 0.18
+        },
+        "Body Rotation": {
+            "roll": -6.62,
+            "pitch": -3.16,
+            "yaw": 164.42
+        }
+    },
+    "images/006.png": {
+        "Body Movement": {
+            "vx": 0.27,
+            "vy": -0.0,
+            "v_rot": -0.44
+        },
+        "Movement parameters": {
+            "step_height": 0.09,
+            "step_duration": 1.49,
+            "gait_select": "tripod"
+        },
+        "Body Position": {
+            "pos_x": 0.15,
+            "pos_y": 0.13,
+            "pos_z": 0.08
+        },
+        "Body Rotation": {
+            "roll": 2.12,
+            "pitch": 7.6,
+            "yaw": -172.75
+        }
+    }
+}
