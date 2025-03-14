@@ -1,7 +1,133 @@
 file_name,text
-images/001.png,ini adalah upin dia pakai baju kuning
-images/002.png,ini adalah ipin
-images/003.png,ini adalah jarjit kepalanya ada merahnya
-images/004.png,ini adalah upin dan ipin
-images/005.png,ini adalah sekawanan anjing
-images/006.png,ini adalah sekawanan kucing
+images/001.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
+images/002.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
+images/003.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
+images/004.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
+images/005.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
+images/006.png,{
+    "Body Movement": {
+        "vx": 0.3,
+        "vy": 0.0,
+        "v_rot": 0.0
+    },
+    "Movement parameters": {
+        "step_height": 0.05,
+        "step_duration": 1.5,
+        "gait_select": "wave"
+    },
+    "Body Position": {
+        "pos_x": 0.0,
+        "pos_y": 0.0,
+        "pos_z": 0.1
+    },
+    "Body Rotation": {
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0
+    }
+}
